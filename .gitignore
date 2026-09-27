@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Secrets — NEVER commit real keys
+.env 
+.env.example
+.env.local
